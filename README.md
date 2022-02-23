@@ -24,8 +24,6 @@ REST is a design style for software like web APIs
 
 There are five design constraints that result in an app with properties, like performance, simplicity, and reliability.
 
-![image-3.png](attachment:image-3.png)
-
 Web APIs that have the constraints of REST are called REST APIs. 
 
 FUN FACT: the libraries we use in python are actually APIs!
