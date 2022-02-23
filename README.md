@@ -2,7 +2,7 @@
 
 # 2.	What kind of API did you build? What types of APIs are there? Why are APIs important?
 
-The API created was a RESTful API using the flask framework. 
+The API created was a RESTful API using the flask framework. This API was first accessed locally 
 
 ## Why APIs are important:
 
